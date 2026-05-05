@@ -35,7 +35,6 @@ Traffic congestion leads to:
 
 Q-Learning / Deep Q-Network (DQN)
 
-*(Choose one based on your implementation)*
 
 ---
 
