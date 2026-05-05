@@ -62,7 +62,7 @@ Compared to traditional fixed-time signals:
 
 Click below to open directly in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jenniferfrancisss/traffic-rl-optimization/blob/main/rlai-capstone.ipynb)
+[![Open in Colab](https://colab.research.google.com/github/jenniferfrancisss/traffic-rl-optimization/blob/main/RLAI_traffic_flow_optimize.ipynb)
 
 ---
 
