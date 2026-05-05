@@ -93,5 +93,4 @@ traffic-rl-optimization/
 
 ## 👤 Author
 
-Your Name
-
+Jennifer Francis
